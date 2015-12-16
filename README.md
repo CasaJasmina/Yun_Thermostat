@@ -34,6 +34,7 @@ Connect 22 and 24 (or 12 and 14) for a normally open connection.
 | -------------     |:--------:| :--------:| :--------:|
 | Arduino Yun       | 1 |  | https://www.arduino.cc/en/Main/ArduinoBoardYun| 
 | Proto shield      | 1 |  | https://www.arduino.cc/en/Main/ArduinoProtoShield |
+| Relay             | 1 | 2A signal relay	|  |
 | Transistor        | 1 | BC54 |  |
 | 10k resistor      | 2 |  |  |
 | 220 resistor      | 1 |  |  |
