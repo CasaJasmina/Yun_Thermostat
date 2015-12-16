@@ -15,11 +15,11 @@ In order to read values from the sensor you have to import the [library](https:/
 <img src="http://www.electroschematics.com/wp-content/uploads/2015/02/DHT22-PinOut.png" width="200" /></br>
 The DHT22 sensor, used in this project, has a really simple [datasheet](https://www.sparkfun.com/datasheets/Sensors/Temperature/DHT22.pdf):</br>
 Pin one has to be plugged in the 5V and is used for power supply</br>
-Pin two is for data and it can be plugged in every pin depending on your needs</br>
-Pin three unused</br>
+Pin two is for data </br>
+Pin three is unused</br>
 Pin four has to be plugged in the ground
 
-##Notes about the ralay
+##Notes about the relay
 <img src="https://github.com/CasaJasmina/Yun_Thermostat/blob/master/Img/Relay.png " width="200" /> </br>
 The A1 and A2 pins provide current needed to operate, connect one to the ground and the other one to the 5V.
 Others pins are symmetric, so you can use only one side.</br>
