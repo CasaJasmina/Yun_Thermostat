@@ -9,7 +9,7 @@ The Yun_Thermostat is a really simple temperature sensor connected to a relay, w
 
 ##Loading sketches
 [Here](https://github.com/CasaJasmina/Yun_Thermostat/tree/master/Thermostat-relay) you can find a really basic Arduino sketch ready to be loaded.</br>
-In order to read values from the sensor you have to import the [library](https://github.com/adafruit/DHT-sensor-library).
+In order to read values from the sensor you have to import this [library](https://github.com/adafruit/DHT-sensor-library).
 
 ##Notes about the sensor
 <img src="http://www.electroschematics.com/wp-content/uploads/2015/02/DHT22-PinOut.png" width="200" /></br>
@@ -21,7 +21,7 @@ Pin four has to be plugged in the ground
 
 ##Notes about the relay
 <img src="https://github.com/CasaJasmina/Yun_Thermostat/blob/master/Img/Relay.png " width="200" /> </br>
-The A1 and A2 pins provide current needed to operate, connect one to the ground and the other one to the 5V.
+The A1 and A2 pins provide the current needed to operate, connect one to the ground and the other one to the 5V.
 Others pins are symmetric, so you can use only one side.</br>
 Connect 21 and 24 (or 11 and 14) for a normally closed connection.</br>
 Connect 22 and 24 (or 12 and 14) for a normally open connection.
