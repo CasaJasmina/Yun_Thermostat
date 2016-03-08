@@ -42,6 +42,4 @@ Connect 22 and 24 (or 12 and 14) for a normally open connection.
 | Screw terminal    | 1 |  |
 | Diode             | 1 | 1n4001	|  |
 
-####Credits
 
-Project developed by Tommaso Laterza for [Casa Jasmina](http://casajasmina.arduino.cc/).
